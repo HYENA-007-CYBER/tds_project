@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Should I use gpt-4o-mini or gpt3.5 turbo?",
+    "answer": "Use gpt-3.5-turbo-0125 even if AI Proxy supports only gpt-4o-mini.",
+    "links": [
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/4",
+        "text": "Use the model that’s mentioned in the question."
+      }
+    ]
+  },
+  {
+    "question": "How to count tokens for OpenAI billing?",
+    "answer": "Use a tokenizer like tiktoken and multiply by the token rate.",
+    "links": [
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/3",
+        "text": "Use tokenizer like Prof. Anand did."
+      }
+    ]
+  }
+]
